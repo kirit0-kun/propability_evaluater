@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import evaluater
 import sys
 from distutils.log import Log
